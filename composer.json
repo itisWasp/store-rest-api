@@ -1,13 +1,6 @@
 {
   "require": {
-    "vlucas/phpdotenv": "^2.4",
-    "phpunit/phpunit": "4.7.7",
-    "phpspec/phpspec": "2.2.1"
-  },
-  "require-dev": {
-    "vlucas/phpdotenv": "^2.4",
-    "phpunit/phpunit": "4.7.7",
-    "phpspec/phpspec": "2.2.1"
+    "vlucas/phpdotenv": "^2.4"
   },
   "autoload": {
     "psr-4": {
