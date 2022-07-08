@@ -3,7 +3,7 @@ class Product{
   
     // database connection and table name
     private $conn;
-    private $table_name = "Product";
+    private $table_name = "product";
   
     // object properties
     public $id;
